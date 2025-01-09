@@ -1,6 +1,6 @@
 # dayz-scripts
 
-Script to capture player position by id (bohemia):
+Script to capture player position by id (bohemia): <br />
 ./player_get_position.sh AbcDefGhiJ-1_-A7b8C1Def04G4hi1JKLMn2OpqRStu=
 DB Version - 0200
 Position X - 6DF92E46 => 11198.356
