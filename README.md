@@ -2,7 +2,7 @@
 
 **Script to capture player position by id (bohemia):** <br />
 ```
-./player_get_position.sh AbcDefGhiJ-1_-A7b8C1Def04G4hi1JKLMn2OpqRStu= <br />
+./player_get_position.sh AbcDefGhiJ-1_-A7b8C1Def04G4hi1JKLMn2OpqRStu= 
 ```
 DB Version - 0200 <br />
 Position X - 6DF92E46 => 11198.356 <br />
@@ -12,7 +12,7 @@ Position Y - 33BA6046 => 14382.55 <br /><br />
 
 **Script to replace the player position by id (bohemia) passing the coordinates X, Z and Y (the player must be logged out because upon logout the player database is updated with their last position):** <br />
 ```
-./player_replace_position.sh AbcDefGhiJ-1_-A7b8C1Def04G4hi1JKLMn2OpqRStu= 1594.6315 299.88126 9088.511 <br />
+./player_replace_position.sh AbcDefGhiJ-1_-A7b8C1Def04G4hi1JKLMn2OpqRStu= 1594.6315 299.88126 9088.511 
 ```
 /tmp/dayz/AbcDefGhiJ-1_-A7b8C1Def04G4hi1JKLMn2OpqRStu= <br />
 total 2.4M <br />
